@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+Lamplighter/Saved/Config/CrashReportClient/UE4CC-Windows-D5C48F5B4CDFFB3F7E426A94D2AF6BA4/CrashReportClient.ini
+Lamplighter/Saved/Config/CrashReportClient/UE4CC-Windows-ABEC5EBD4C5089CD8D762EA288BC3217/CrashReportClient.ini
+Lamplighter/Saved/Config/CrashReportClient/UE4CC-Windows-8DC2FFED4BB647D7038CD38F849D0B9F/CrashReportClient.ini
+Lamplighter/Saved/Config/CrashReportClient/UE4CC-Windows-8B3FB3FD43807AF7BD83108B8CD633A6/CrashReportClient.ini
+Lamplighter/Saved/Config/CrashReportClient/UE4CC-Windows-848F030F4C198521CB1B9EA211949097/CrashReportClient.ini
+Lamplighter/Saved/Config/CrashReportClient/UE4CC-Windows-56A3BD444FF7D7C665CFD0B782CAC4AD/CrashReportClient.ini
+Lamplighter/Saved/Crashes/UE4CC-Windows-8DC2FFED4BB647D7038CD38F849D0B9F_0000/CrashContext.runtime-xml
+Lamplighter/Saved/Crashes/UE4CC-Windows-8DC2FFED4BB647D7038CD38F849D0B9F_0000/CrashReportClient.ini
+Lamplighter/Saved/Crashes/UE4CC-Windows-8DC2FFED4BB647D7038CD38F849D0B9F_0000/UE4Minidump.dmp
+Lamplighter/Saved/Crashes/UE4CC-Windows-ABEC5EBD4C5089CD8D762EA288BC3217_0000/CrashContext.runtime-xml
+Lamplighter/Saved/Crashes/UE4CC-Windows-ABEC5EBD4C5089CD8D762EA288BC3217_0000/CrashReportClient.ini
+Lamplighter/Saved/Crashes/UE4CC-Windows-ABEC5EBD4C5089CD8D762EA288BC3217_0000/UE4Minidump.dmp
+Lamplighter/Intermediate/CachedAssetRegistry.bin
